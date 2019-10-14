@@ -18,7 +18,7 @@ Edit your own api key and secret settings. Then start script with:
 python pyMarketMaker.py
 
 
-# Donate for development
+# Karma jar
 
 BTC - 112eMCQJUkUz7kvxDSFCGf1nnFJZ61CE4W
 

@@ -1,4 +1,4 @@
-# pyMarketMaker
+# MarketMaker
 Simplified Deribit market maker for personal customization. This script is designed for market makers to add liquidity to bitcoin futures market on Deribit. Note that market making is a risky business. If you don't know what you are doing, please don't touch this code. For safety, the script only responds to filled orders, which means initial orders must be set manually.
 
 # Pre-requisites
@@ -36,12 +36,10 @@ EOS - binancecleos Memo: 103117718
 
 # Recommended links
 
-Getting started - Coinbase - https://www.coinbase.com/join/bradle_6r
+Getting started - [Coinbase](https://www.coinbase.com/join/bradle_6r)
 
-Portfolio balance - Binance - www.binance.com/en/register?ref=LTUMGDDC
+Portfolio balance - [Binance](https://www.binance.com/en/register?ref=LTUMGDDC)
 
-Futures trading - Deribit - https://www.deribit.com/reg-8106.6912
+Futures trading - [Deribit](https://www.deribit.com/reg-8106.6912)
 
-Cold wallet - https://atomicWallet.io?kid=12GR52 (promo 12GR52) - https://hodler.tech/
-
-Learn to earn (coinbase users) - Stellar - https://coinbase.com/earn/xlm/invite/vps5dfzt - EOS - https://coinbase.com/earn/eos/invite/xdbgswqk
+Cold wallet - [Atomic](https://atomicWallet.io?kid=12GR52)
